@@ -26,7 +26,7 @@
 
 ### Конфигурация
 
-Файл настройки конфигураций находится по адресу <code>config/settings</code>
+Файл настройки конфигураций находится по адресу <code>config/settings</code><br>
  <code>count_product_from</code> - С какого элемента начинать парсить товары<br>
  <code>count_product_count</code> - Количество спарсеных товаров за раз<br>
  <code>categories</code> - Массив с категориями товаров заданный вручную<br>
